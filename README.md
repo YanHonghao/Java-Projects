@@ -1,2 +1,2 @@
 # Java-Projects
-My Java project test.
+My Java projects repository.
